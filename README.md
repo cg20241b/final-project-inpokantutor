@@ -1,5 +1,14 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/ZUtYscbQ)
 
+# Idea Concept
+Inspired by an amazing scenery animation or picture. Our team take an idea to create an animation about a scenery with timelapse animation form morning to night.
+
+In this concept, the main focus is on using lighting and shadowing techniques to add dimension and depth to the timelapse animation. The transition from morning to night will result in variations in light intensity and shadow movement, which will enhance the overall atmosphere of the scene. 
+
+Additional animations, such as wind, moving clouds, birds, insects, and wind-blowing effects, will add dynamic elements, making the scene more lively and realistic. At night, the addition of the moon and stars will create a realistic night sky, with soft lighting from the moon and twinkling stars in the background. The moon and stars can also shift position or change in light intensity as time progresses, creating the impression of continuous time flow.
+
+For the interactive features, technologies like Unity and map magic, allowing users to interact with the scene by moving objects, manipulating clouds or manipulating the stars in the sky. Interactive buttons can also be used to trigger certain animations, such as initiating wind gusts or adjusting the speed of the time transition.
+
 # Reference for Project Implementation
 
   The scene that we are aiming to create is inspired by the change of lighting and shadow shown by the video below:
