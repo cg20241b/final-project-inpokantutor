@@ -9,6 +9,9 @@ Additional animations, such as wind, moving clouds, birds, insects, and wind-blo
 
 For the interactive features, technologies like Unity and map magic, allowing users to interact with the scene by moving objects, manipulating clouds or manipulating the stars in the sky. Interactive buttons can also be used to trigger certain animations, such as initiating wind gusts or adjusting the speed of the time transition.
 
+# Graphical Focus
+Each object in the scene like trees, rocks, and clouds will interact directly with the main light source, the sun. _Real-time physics-based rendering_ (PBR) techniques will ensure that materials reflect and absorb light appropriately, contributing to the scene's realism. The interplay between light and objects will create dynamic shifts in both direct and ambient light, influencing how each object is perceived during the time lapse.
+
 # Reference for Project Implementation
 
   The scene that we are aiming to create is inspired by the change of lighting and shadow shown by the video below:
