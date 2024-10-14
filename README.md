@@ -15,6 +15,8 @@ Each object in the scene like trees, rocks, and clouds will interact directly wi
 # Reference for Project Implementation
 
   The scene that we are aiming to create is inspired by the change of lighting and shadow shown by the video below:
+  
+  https://www.pexels.com/video/time-lapse-footage-of-a-starry-night-4991088
 
   <video width="320" height="240" controls>
   <source src="./assets/Final Project Overview/overview.mp4" type="video/mp4">
