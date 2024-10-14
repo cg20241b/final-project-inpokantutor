@@ -1,5 +1,10 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/ZUtYscbQ)
 
+# Team Members
+1. Nathaniel Ryo Kurniadi - 5025221019
+2. Moch. Avin - 5025221061
+3. Bimantara Putra Ernandra - 5025221169
+4. Aditya Situmorang - 5025221207
 # Idea Concept
 Inspired by an amazing scenery animation or picture. Our team take an idea to create an animation about a scenery with timelapse animation form morning to night.
 
@@ -15,7 +20,7 @@ Each object in the scene like trees, rocks, and clouds will interact directly wi
 # Reference for Project Implementation
 
   The scene that we are aiming to create is inspired by the change of lighting and shadow shown by the video below:
-  
+
   https://www.pexels.com/video/time-lapse-footage-of-a-starry-night-4991088
 
   <video width="320" height="240" controls>
