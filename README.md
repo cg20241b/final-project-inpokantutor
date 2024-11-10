@@ -5,6 +5,7 @@
 2. Moch. Avin - 5025221061
 3. Bimantara Putra Ernandra - 5025221169
 4. Aditya Situmorang - 5025221207
+
 # Idea Concept
 Inspired by an amazing scenery animation or picture. Our team take an idea to create an animation about a scenery with timelapse animation form morning to night.
 
