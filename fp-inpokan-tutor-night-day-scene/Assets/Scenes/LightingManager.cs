@@ -11,6 +11,7 @@ public class LightingManager : MonoBehaviour
 
     [SerializeField, Range(0,24)] private float TimeOfDay;
 
+
     private void UpdateLighting(float timePercent)
     {
         RenderSettings.ambientLight = Preset.AmbientColor.Evaluate(timePercent);
@@ -60,9 +61,8 @@ public class LightingManager : MonoBehaviour
 
         if(Application.isPlaying)
         {
-            TimeOfDay += Time.deltaTime;
-            TimeOfDay %= 24;
-            UpdateLighting(TimeOfDay / 24f);
+            GlobalTimeSystem.UpdateTime(Time.deltaTime);
+            UpdateLighting(GlobalTimeSystem.TimeOfDay / 24f);
         }
     }
 }
