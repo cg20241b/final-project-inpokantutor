@@ -24,16 +24,16 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _Texture1:
-        m_Texture: {fileID: 2800000, guid: bc185b3cab692594797964d51147b431, type: 3}
+        m_Texture: {fileID: 2800000, guid: 9516bb7fa62885548843f39744d7ca53, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Texture2:
-        m_Texture: {fileID: 2800000, guid: 5fc3035aa22fd98448b4e9c52f58e59a, type: 3}
+        m_Texture: {fileID: 2800000, guid: 1979122d93cf98a4788f3bf50e0f0479, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Blend: 0.9838308
+    - _Blend: 0.1258154
     - _Exposure1: 1
     - _Exposure2: 1
     - _ImageType: 0
