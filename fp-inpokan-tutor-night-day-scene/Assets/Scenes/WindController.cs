@@ -19,6 +19,12 @@ public class WindController : MonoBehaviour
 
     void Update()
     {
+        // Check if the Q key is pressed
+        if (Input.GetKeyDown(KeyCode.Q))
+        {
+            ToggleWind();
+        }
+
         // Gradually adjust the wind strength towards the target value
         windZone.windMain = Mathf.Lerp(windZone.windMain, targetWindStrength, Time.deltaTime * transitionSpeed);
     }
@@ -31,5 +37,4 @@ public class WindController : MonoBehaviour
         // Set the target wind strength based on the new state
         targetWindStrength = isWindActive ? initialWindStrength : 0.0f;
     }
-
 }

@@ -26,6 +26,15 @@ public class FlashlightFollow : MonoBehaviour
         flashlight = GetComponent<Light>();
     }
 
+    void Update()
+    {
+        // Check if the F key is pressed
+        if (Input.GetKeyDown(KeyCode.F))
+        {
+            ToggleFlashlight();
+        }
+    }
+
     void LateUpdate()
     {
         if (mainCamera != null && flashlight.enabled)
