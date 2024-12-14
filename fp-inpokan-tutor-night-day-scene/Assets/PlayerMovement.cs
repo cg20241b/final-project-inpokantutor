@@ -1,3 +1,4 @@
+// PlayerMovement.cs
 using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
@@ -30,6 +31,13 @@ public class PlayerMovement : MonoBehaviour
         float z = Input.GetAxis("Vertical");
 
         Vector3 move = transform.right * x + transform.forward * z;
+
+        RaycastHit hit;
+        if (Physics.Raycast(transform.position, Vector3.down, out hit, 2f, groundMask))
+        {
+            Quaternion toRotation = Quaternion.FromToRotation(transform.up, hit.normal) * transform.rotation;
+            transform.rotation = Quaternion.Slerp(transform.rotation, toRotation, speed * Time.deltaTime);
+        }
 
         controller.Move(move * speed * Time.deltaTime);
 

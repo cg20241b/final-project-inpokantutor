@@ -1,3 +1,5 @@
+// MouseLook.cs
+
 using UnityEngine;
 
 public class MouseLook : MonoBehaviour
