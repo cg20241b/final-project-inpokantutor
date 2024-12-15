@@ -6,7 +6,7 @@
 4. Aditya Situmorang - 5025221207
 
 # Final Project Demo
-<video controls src="./assets/2024-12-15 11-34-56.mp4" title="Final Project Demo"></video>
+[<video controls src="./assets/2024-12-15 11-34-56.mp4" title="Final Project Demo"></video>](https://github.com/user-attachments/assets/9243f848-ad10-445d-bb87-5e999c843f24)
 
 # Idea Concept
 Inspired by an amazing scenery animation or picture. Our team take an idea to create an animation about a scenery with timelapse animation form morning to night.
