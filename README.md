@@ -1,10 +1,12 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/ZUtYscbQ)
-
 # Team Members
 1. Nathaniel Ryo Kurniadi - 5025221019
 2. Moch. Avin - 5025221061
 3. Bimantara Putra Ernandra - 5025221169
 4. Aditya Situmorang - 5025221207
+
+# Final Project Demo
+<video controls src="./assets/2024-12-15 11-34-56.mp4" title="Final Project Demo"></video>
 
 # Idea Concept
 Inspired by an amazing scenery animation or picture. Our team take an idea to create an animation about a scenery with timelapse animation form morning to night.
